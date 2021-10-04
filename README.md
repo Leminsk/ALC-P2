@@ -3,7 +3,7 @@ Segundo Trabalho(Prova) Disciplinar para COC473 - Álgebra Linear Computacional 
 
 #### **Task 1:** 
 - Solucionar o sistema de equações não lineares abaixo:  
-  <img src="http://www.sciweavers.org/tex2img.php?eq=2c_%7B3%7D%5E2%20%2B%20c_%7B2%7D%5E2%20%2B%206c_%7B4%7D%5E2%20%3D%201.0&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="2c_{3}^2 + c_{2}^2 + 6c_{4}^2 = 1.0" width="222" height="26" />   
+  - <img src="http://www.sciweavers.org/tex2img.php?eq=2c_%7B3%7D%5E2%20%2B%20c_%7B2%7D%5E2%20%2B%206c_%7B4%7D%5E2%20%3D%201.0&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="2c_{3}^2 + c_{2}^2 + 6c_{4}^2 = 1.0" width="222" height="26" />   
   
   
   <img src="http://www.sciweavers.org/tex2img.php?eq=8c_%7B3%7D%5E3%20%2B%206c_%7B3%7Dc_%7B2%7D%5E2%20%2B%2036%20c_%7B3%7Dc_%7B2%7Dc_%7B4%7D%20%2B%20108c_%7B3%7Dc_%7B4%7D%5E2%20%3D%20%5Ctheta_%7B1%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="8c_{3}^3 + 6c_{3}c_{2}^2 + 36 c_{3}c_{2}c_{4} + 108c_{3}c_{4}^2 = \theta_{1}" width="328" height="26" />    

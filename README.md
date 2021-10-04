@@ -10,4 +10,5 @@ Segundo Trabalho(Prova) Disciplinar para COC473 - Álgebra Linear Computacional 
   
 
 #### **Task 2:**
-- 
+- Dada a função abaixo:
+  - ![function](https://github.com/Leminsk/ALC-P2/blob/main/Task%202/function.png "Function")

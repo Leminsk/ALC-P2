@@ -6,7 +6,7 @@ Segundo Trabalho(Prova) Disciplinar para COC473 - Álgebra Linear Computacional 
   - ![equation1](https://github.com/Leminsk/ALC-P2/blob/main/Task%201/equations/equation1.png "Equation 1")  
   - ![equation2](https://github.com/Leminsk/ALC-P2/blob/main/Task%201/equations/equation2.png "Equation 2")  
   - ![equation3](https://github.com/Leminsk/ALC-P2/blob/main/Task%201/equations/equation3.png "Equation 3")  
-
+- A fim de encontrar os valores das constantes c<sub>2</sub>, c<sub>3</sub> e c<sub>4</sub> dado um par de valores de entrada () por meio do Método de Newton ou pelo Método de Broyden.
   
 
 #### **Task 2:**

@@ -1,0 +1,6 @@
+INPUT VALUES: 
+ICOD: 1
+theta_1: 0.35  theta_2: 5.35
+TOLm: 0.0001
+Solution found for intial c_2 = 1, c_3 = 0, c_4 = 0: 
+{ 0.989345, 0.0430763, 0.0539841 }

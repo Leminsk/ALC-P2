@@ -20,4 +20,7 @@ Segundo Trabalho(Prova) Disciplinar para COC473 - Álgebra Linear Computacional 
 
 
 #### **Task 3:**
-- 
+- Dado como entrada as constantes m, c, k, a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, w<sub>1</sub>, w<sub>2</sub>, w<sub>3</sub>, um passo de integração (h) e tempo total de integração (T), resolver a seguinte equação diferencial pelo método Runge-Kutta-Nyström:
+  - ![diff1](https://github.com/Leminsk/ALC-P2/blob/main/Task%203/differential-equation/rkn-eq1.png "Diff 1")
+  - ![diff1](https://github.com/Leminsk/ALC-P2/blob/main/Task%203/differential-equation/rkn-eq2.png "Diff 1")
+  - ![diff1](https://github.com/Leminsk/ALC-P2/blob/main/Task%203/differential-equation/rkn-eq3.png "Diff 1")

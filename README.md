@@ -13,4 +13,11 @@ Segundo Trabalho(Prova) Disciplinar para COC473 - Álgebra Linear Computacional 
 - Dada a função abaixo:
   - ![function](https://github.com/Leminsk/ALC-P2/blob/main/Task%202/function.png "Function")
 - E sendo fornecidos os dados c<sub>1</sub>, c<sub>2</sub>, c<sub>3</sub> e c<sub>4</sub> como entrada:
-  1. Encontrar a raiz num intervalo [a,b] pelo Método da Bisseção ou Método de Newton, com o ponto de partida igual à (a+b)/2
+  1. Encontrar a raiz num intervalo [a,b] pelo Método da Bisseção ou Método de Newton, com o ponto de partida igual a (a+b)/2
+  2. Calcular valor da integral definida num intervalo [a,b] usando a Quadratura de Gauss-Legendre ou Quadratura Polinomial. Podendo escolher o número de integração entre 2 e 10.
+  3. Calcular a derivada num ponto x=a, sendo &Delta;x fornecido na entrada, e podendo escolher o método de diferenças finitas passo a frente, passo atrás ou diferença central
+  4. Estimar o valor da derivada pela extrapolação de Richard (p=1) a partir de dois valores &Delta;x fornecidos
+
+
+#### **Task 3:**
+- 

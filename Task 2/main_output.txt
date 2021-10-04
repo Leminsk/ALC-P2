@@ -1,0 +1,7 @@
+INPUT VALUES: 
+ICOD: 4
+delta_x_1: 0.100000
+delta_x_2: 0.025000
+Constants: 0.25,  1,  -2,  1.5
+Solution found: 
+-2.396278884
